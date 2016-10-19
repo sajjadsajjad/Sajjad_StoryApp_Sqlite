@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">StoryApp</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_story">StoryActivity</string>
+    <string name="title_activity_story_list">StoryListActivity</string>
+    <string name="title_activity_story_list_adapter">StoryListAdapter</string>
+    <string name="title_activity_custom_array_adapter">CustomArrayAdapter</string>
+    <string name="title_activity_detail">DetailActivity</string>
+    <string name="title_activity_adapter">AdapterActivity</string>
+    <string name="title_activity_final">FinalActivity</string>
+</resources>
